@@ -6,8 +6,8 @@ This repository is no more used for development.
 
 This project became base for ongoing development around Cockpit and Virtual Machines, some of the interesting follow-ups:
 
-* **cockpit-ovirt** - View of oVirt host absed on VDSM. Among the others, part of the oVirt NextGen Node.
-* **Machines** in upstream [Cockpit](cockpit-project.org) based on Libvirt, added by [4434 PR](https://github.com/cockpit-project/cockpit/pull/4434) followed by multiple other patches
+* **[cockpit-ovirt](https://gerrit.ovirt.org/#/q/project:cockpit-ovirt)** - View of oVirt host absed on VDSM. Among the others, part of the oVirt NextGen Node.
+* **Machines** in upstream [Cockpit](http://www.cockpit-project.org) based on Libvirt, added by [4434 PR](https://github.com/cockpit-project/cockpit/pull/4434) followed by multiple other patches
 * **External Providers** for 'machines' plugin in Cockpit to allow integration of upstream code with other providers, like VDSM, ManageIQ or other.
 
 # Cockpit-oVirt plugin
